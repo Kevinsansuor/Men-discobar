@@ -1,0 +1,40 @@
+    .imagen_producto.soda_tropical{
+    background: url(../assets/soda_limon_hierbabuena.png)no-repeat;
+            background-size: cover;
+            background-position: center;
+}
+
+.card_producto .imagen.shot_tequila{
+    background: url(../assets/tequila_shot.png)no-repeat;
+    background-position: center;
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card_producto .imagen.ginger_tropical{
+    background: url(../assets/soda.png)no-repeat;
+    background-position: center;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card_producto .imagen.esporade_tropical{
+    background: url(../assets/soda_naranja_2.png)no-repeat;
+    background-position: center;
+    background-size: 120px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.card_producto .imagen.vive100_tropical{
+    background: url(../assets/soda_verde.png)no-repeat;
+    background-position: center;
+    background-size: 90px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
